@@ -1,4 +1,13 @@
 # Hi there 👋
+
+---
+
+## IMPORTANT
+
+We're looking for someone that's interested becoming the new leader of KygekTeam. Please visit [this page](https://kygek.team/lookingfornewleader) for more information.
+
+---
+
 ### Welcome to the KygekTeam GitHub organization profile page!
 
 We've made many open source projects **since 2020**, mainly **plugins for Minecraft server software** (PocketMine-MP 3/4, NukkitX/PowerNukkit, SpigotMC/PaperMC). KygekTeam is founded by [**@KygekDev**](https://github.com/KygekDev) on 2020, previously named **Kygek Development**.
