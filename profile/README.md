@@ -18,4 +18,4 @@ For more information, please visit the [KygekTeam main GitHub repository](https:
 
 ---
 
-##### Thanks to [@microsoft](https://github.com/microsoft) for adding and showcasing this feature in their GitHub organization!
+##### KygekTeam International is a child organization of [The Kygek Foundation](https://github.com/kygek).
