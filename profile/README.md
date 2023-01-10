@@ -4,7 +4,7 @@
 
 ## IMPORTANT
 
-We're looking for people that are interested to maintain our repositories, including our PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
+We're looking for people that are interested to maintain our repositories, including our Nukkit plugins and other notable projects. If you are looking for PocketMine-MP plugins, go to [thebigcrafter](https://github.com/thebigcrafter). For Spigot/Paper plugins, go to [DavidDGTNT's page](https://github.com/daviddgtnt). If you are interested in maintaining Nukkit plugins or something else, please direct message KygekDev on Discord. If you are not friends with KygekDev, please join the [KygekDev Community server](https://discord.com/invite/TstDS9jZf7) on Discord.
 
 ---
 
