@@ -4,7 +4,7 @@
 
 ## IMPORTANT
 
-We're looking for people that are interested to maintain our repositories, including our PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
+As of March 2023, KygekTeam International has been discontinued and its projects are no longer maintained by them. You may find other developers continue maintaining their projects since then (i.e. forks), however please note that the forks are not regarded as official, therefore they are not subject to any complaints towards KygekTeam and its former members. We hope you can understand the situation thoroughly.
 
 ---
 
